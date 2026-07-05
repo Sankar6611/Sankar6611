@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm BOYINA SANKAR</h1>
 
 <h3 align="center">
-AI & Machine Learning Engineer • Full Stack Developer • Open Source Contributor
+AI & Machine Learning Engineer • Founder @ InnoTech Hub • Full Stack Developer • Open Source Contributor
 </h3>
 
 <p align="center">
-Building AI-powered products, scalable web applications, and enterprise solutions while continuously learning and contributing to open source.
+Building AI-powered products, enterprise software, and scalable digital solutions that bridge innovation, education, and real-world impact.
 </p>
 
 ---
@@ -13,142 +13,210 @@ Building AI-powered products, scalable web applications, and enterprise solution
 ## 👨‍💻 About Me
 
 🎓 **B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)**  
-📍 St. Peter's Engineering College, Hyderabad (2024 – 2028)
+🏫 **St. Peter's Engineering College, Hyderabad** (2024 – 2028)
 
-I am a passionate software developer focused on Artificial Intelligence, Machine Learning, Full Stack Development, and scalable enterprise systems.
+I am an aspiring **AI & Machine Learning Engineer** passionate about building intelligent systems, scalable software, and technology that solves real-world problems. My interests span **Artificial Intelligence, Machine Learning, Deep Learning, NLP, Full Stack Development, Enterprise SaaS, and Cloud Technologies**.
 
-I enjoy solving real-world problems through technology, building production-ready applications, contributing to open-source communities, and continuously improving my engineering skills.
-
-Currently, I'm working on AI agents, enterprise SaaS platforms, Java-based Data Structures & Algorithms, and modern cloud-native applications.
+As the **Founder & CEO of InnoTech Hub**, I work towards empowering students through innovation, technical communities, mentorship, hackathons, and practical learning experiences. I enjoy transforming ideas into impactful products while continuously learning and contributing to the developer community.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Currently Working On
 
 - 🤖 AI Agents & Multi-Agent Systems
-- 🧠 Machine Learning & Generative AI
+- 🧠 Machine Learning & Deep Learning
+- 💬 Natural Language Processing (NLP)
 - ☕ Data Structures & Algorithms in Java
-- 🌐 Full Stack Development
-- 🏗 Enterprise Software Architecture
-- ☁ Cloud & DevOps
-- 📖 Open Source Contributions
-- 📈 Building Products in Public
+- 🌐 Full Stack Web Development
+- 🏢 Enterprise SaaS Platforms
+- ☁️ Cloud & DevOps
+- 📚 Open Source Contributions
 
 ---
 
-## 💼 Current Projects
+## 💼 Professional Experience
+
+### 🚀 Founder & CEO — InnoTech Hub *(Feb 2026 – Present)*
+
+Leading a student-focused innovation and technology platform dedicated to bridging the gap between academics and industry by building:
+
+- AI-powered solutions
+- Enterprise SaaS applications
+- Student productivity platforms
+- Technical communities
+- Workshops & Hackathons
+- Career development initiatives
+- Learning management solutions
+
+---
+
+### 💻 Technical Lead — VISWAM.AI *(May 2025 – Sep 2025)*
+
+Worked on real-world AI solutions involving:
+
+- AI Model Development
+- Data Pipelines
+- Machine Learning Workflows
+- Team Collaboration
+- Production-oriented AI Applications
+
+---
+
+### 🌍 Google Student Ambassador *(Aug 2025 – Feb 2026)*
+
+Represented Google through community engagement, technical awareness programs, and student outreach initiatives.
+
+---
+
+### ☁ IBM – AI & Cloud Technologies
+
+Gained hands-on exposure to AI technologies, cloud computing, and modern enterprise development practices.
+
+---
+
+### 🌐 Community Management Intern — Neurolov.ai *(Feb 2024 – Apr 2025)*
+
+Worked on community building, collaboration initiatives, and technology engagement programs.
+
+---
+
+# 🏗 Featured Projects
 
 ### 🚀 SARGS
+
 Enterprise Governance & Accreditation Management Platform
 
-- Multi-role architecture
-- Secure document management
-- Workflow automation
-- NAAC/NBA support
-- Inspection repository
-- Enterprise authentication
+- Multi-role Architecture
+- Secure Document Repository
+- Workflow Automation
+- Inspection Repository
+- NAAC/NBA Support
 - React + NestJS + PostgreSQL
 
 ---
 
 ### 📚 StudyTrack
 
-An intelligent study planning platform featuring
+An intelligent study management platform featuring
 
-- Daily planner
-- DSA tracking
-- Java roadmap
-- LeetCode tracker
-- ML learning roadmap
-- Streak system
-- Progress analytics
+- Daily Planner
+- Java Roadmap
+- DSA Tracker
+- LeetCode Tracker
+- ML Learning Path
 - Leaderboards
+- Analytics Dashboard
+- Streak System
 
 ---
 
 ### 🏫 ITH Attendance & Activity Tracking
 
-A modern attendance and activity management platform designed for institutions with:
+Enterprise attendance platform providing
 
-- Attendance tracking
-- Faculty management
-- Student analytics
+- Attendance Management
+- Faculty Dashboard
+- Student Analytics
 - Reports
-- Dashboard
-- Enterprise workflow
+- Notifications
+- Institutional Workflows
 
 ---
 
-### 🌐 InnoTech Hub (ITH)
-
-Building technology solutions that bridge innovation, education, and real-world software engineering.
-
----
-
-## 🛠 Tech Stack
+## 💻 Technical Skills
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 </p>
 
-### Backend
+### Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,express" />
 </p>
 
-### Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### AI & ML
-
-- Machine Learning
-- Generative AI
-- LLM Applications
-- AI Agents
-- Multi-Agent Systems
-- Prompt Engineering
-
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,supabase,linux" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,supabase,vercel" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🤖 AI & Machine Learning
 
-- Advanced AI Engineering
-- LLM Orchestration
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- AI Agents
+- Multi-Agent Systems
+- Prompt Engineering
+- Data Analytics
+
+---
+
+## 🏆 Certifications
+
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Deloitte Australia – Cyber Job Simulation
+- Deloitte Australia – Data Analytics Job Simulation
+- AI Skills Fest 2026
+- AI Hack Day 2025
+
+---
+
+## 🏅 Leadership & Achievements
+
+- 🚀 Founder & CEO — InnoTech Hub
+- 🌍 Google Student Ambassador
+- 💻 Technical Lead — VISWAM.AI
+- 🌱 Open Source Contributor
+- 🎓 AI/ML Enthusiast
+- 🏅 NASO (National Astronomy & Science Olympiad)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Generative AI
+- LLM Applications
 - Multi-Agent Systems
 - System Design
 - Kubernetes
-- Cloud Infrastructure
-- Scalable Backend Architecture
+- Cloud Architecture
 
 ---
 
-## 🏆 Experience & Leadership
+## 🎯 2026 Goals
 
-- 🚀 Founder & Builder — **InnoTech Hub**
-- 💻 AI & Full Stack Developer
-- 📖 Public Learner & Technical Content Creator
+- ✅ Build Production-Ready AI Products
+- ✅ Solve 500+ DSA Problems
+- ✅ Contribute to Major Open Source Projects
+- ✅ Master Backend & System Design
+- ✅ Launch Enterprise SaaS Platforms
+- ✅ Publish Technical Content
+- ✅ Grow InnoTech Hub into a Strong Student Tech Community
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -166,7 +234,7 @@ Building technology solutions that bridge innovation, education, and real-world 
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -176,46 +244,28 @@ Building technology solutions that bridge innovation, education, and real-world 
 
 ---
 
-## 🎯 2026 Goals
+## 🌐 Connect With Me
 
-- ✅ Solve 500+ DSA Problems
-- ✅ Build Production AI Products
-- ✅ Become an Active Open Source Maintainer
-- ✅ Master Full Stack Development
-- ✅ Publish Technical Articles
-- ✅ Build Enterprise SaaS Products
-- ✅ Contribute to the AI Community
-
----
-
-## 🌎 Connect With Me
-
-📧 **Email**
-
+📧 **Email**  
 24bk1a6611@stpetershyd.com
 
-🌐 **Portfolio**
-
-https://bsankar.vercel.app
-
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 https://linkedin.com/in/boyina-sankar
 
-🏢 **Organization**
+🌐 **Portfolio**  
+https://bsankar.vercel.app
 
+🏢 **Organization**  
 InnoTech Hub
 
 ---
 
-## 💡 Philosophy
+## 💭 Quote
 
-> *"Build consistently. Learn continuously. Share openly. Create technology that solves real-world problems."*
+> *"Technology becomes meaningful when it empowers people, solves real problems, and creates opportunities for others to grow."*
 
 ---
 
 <p align="center">
-
-⭐ If you like my work, consider following my journey and exploring my repositories.
-
+⭐ Thank you for visiting my profile! Feel free to explore my repositories, connect with me, and collaborate on exciting projects.
 </p>
