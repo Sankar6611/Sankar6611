@@ -143,8 +143,6 @@ Building technology solutions that bridge innovation, education, and real-world 
 ## 🏆 Experience & Leadership
 
 - 🚀 Founder & Builder — **InnoTech Hub**
-- 🌍 Open Source Contributor — **GirlScript Summer of Code 2026**
-- 🎓 GFG Campus Mantri
 - 💻 AI & Full Stack Developer
 - 📖 Public Learner & Technical Content Creator
 
